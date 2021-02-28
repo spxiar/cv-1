@@ -20,11 +20,28 @@
         <li><a href="{{email}}">{{email}}</a></li>
       {% endfor %}
     </ul>
-    </ul>
     <p>My Education:
     <ul>
       {% for education in site.data.details.education %}
-        <li><a href="{{education}}">{{education}}</a></li>
+      <li><a href="{{education}}">{{education}}</a></li>
+      {% endfor %}
+    </ul>
+    <p>My Work Experience:
+    <ul>
+      {% for workexperience in site.data.details.workexeperience %}
+      <li><a href="{{workexperience}}">{{workexperience}}</a></li>
+      {% endfor %}
+    </ul>
+    <p>Languages:
+    <ul>
+      {% for languages in site.data.details.languages %}
+      <li><a href="{{languages}}">{{languages}}</a></li>
+      {% endfor %}
+    </ul>
+    <p>Social Skills:
+    <ul>
+      {% for socialskills in site.data.details.socialskills %}
+      <li><a href="{{socialskills}}">{{socialskills}}</a></li>
       {% endfor %}
     </ul>
   </body>
