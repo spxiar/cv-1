@@ -20,5 +20,12 @@
         <li><a href="{{email}}">{{email}}</a></li>
       {% endfor %}
     </ul>
+    </ul>
+    <p>My Education:
+    <ul>
+      {% for education in site.data.details.education %}
+        <li><a href="{{education}}">{{education}}</a></li>
+      {% endfor %}
+    </ul>
   </body>
 </html>
