@@ -14,5 +14,11 @@
         <li><a href="http://{{url}}">{{url}}</a></li>
       {% endfor %}
     </ul>
+    <p>Email me at:
+    <ul>
+      {% for email in site.data.details.email %}
+        <li><a href="{{email}}">{{email}}</a></li>
+      {% endfor %}
+    </ul>
   </body>
 </html>
