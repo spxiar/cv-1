@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>ubiquiti</mark> and <mark>Mikrotik</mark>
 
 content:
-    - title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -47,7 +47,7 @@ content:
           Wireless Network Construction | Internet Provider 
         description: | # this will include new lines to allow paragraphs
           As Network Constructor for MNET I've worked on establishing wireless links up to 15km. 
-    - title: Education # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -58,7 +58,7 @@ content:
           The Ionian University was founded in 1984, the same year as the University of Thessaly and the University of the Aegean. The university comprises five faculties and twelve departments. Its seat is in Corfu, with university units in Lefkada, Kefalonia and Zakynthos.
         description: | # this will include new lines to allow paragraphs
           During my stay at Corfu I wanted to practice everything i got learned in class. That's why from the start of my second year in the university I started searching for work.
-    - title: A Little More About Me
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks some of my other interests and hobbies are:
