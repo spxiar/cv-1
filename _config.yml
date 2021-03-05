@@ -1,6 +1,5 @@
 # Site
 repository: p15xiar/cv-1
-favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -9,7 +8,7 @@ version: 2
 name: Spyros Xiarchos
 title: Undergraduate Informatics Student
 email: sp@xiarchos.gr
-website: xiarchos.gr
+website: https://xiarchos.gr
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -29,27 +28,11 @@ instagram_username: pipisxi
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Spyros and I'm a senior network constructor and undergraduate student of Ionian University at the Department of Informatics. As well as constructing wireless networks I also have experience making websites and e-shops. I have worked at a number of companies gaining teamwork and leadership skills.
-
   I am most skilled in: <mark>ubiquiti</mark> and <mark>Mikrotik</mark>
 
 content:
@@ -64,8 +47,7 @@ content:
           Wireless Network Construction | Internet Provider 
         description: | # this will include new lines to allow paragraphs
           As Network Constructor for MNET I've worked on establishing wireless links up to 15km. 
-
-  - title: Education # Title for the section
+    - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -76,23 +58,20 @@ content:
           The Ionian University was founded in 1984, the same year as the University of Thessaly and the University of the Aegean. The university comprises five faculties and twelve departments. Its seat is in Corfu, with university units in Lefkada, Kefalonia and Zakynthos.
         description: | # this will include new lines to allow paragraphs
           During my stay at Corfu I wanted to practice everything i got learned in class. That's why from the start of my second year in the university I started searching for work.
-
-  - title: A Little More About Me
+    - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks some of my other interests and hobbies are:
       - Vinyl Record Collection
       - Cooking
       - Hiking
-
-
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -100,3 +79,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
