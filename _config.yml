@@ -15,19 +15,8 @@ website: https://xiarchos.gr
 darkmode: true
 
 # Social links
-#twitter_username: facespics
 github_username:  p15xiar
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: pipisxi
-#linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # About Section
 # about_title: About Me
@@ -93,3 +82,4 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
