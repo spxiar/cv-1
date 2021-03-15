@@ -50,13 +50,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Network Construction Assistant
+        title: Network Expansion Assistant
         sub_title: MNET, GR
-        caption:  09/2016 - 08/2018
+        caption:  11/2015 - 08/2018
         description: | # this will include new lines to allow paragraphs
-          - Wireless Link Construction
-          -
-          -
+          - Wireless Link Expansion and Maintenance
+          - IT Tech Support
     content:
       - layout: left
         title: Hardware Maintainance and Repairing Assistant
