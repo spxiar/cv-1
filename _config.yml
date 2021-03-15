@@ -40,6 +40,7 @@ content:
         sub_title: Ionian University, GR
         description: | # this will include new lines to allow paragraphs
           Specialization in Information Systems.
+          
           Main courses follow:
           - Strategy & Management of Information Systems
           - Analysis & Design of Information Systems
