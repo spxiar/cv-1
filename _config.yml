@@ -27,7 +27,8 @@ about_content: | # this will include new lines to allow paragraphs
   - Hardware maintenance and repairing
   - E-shop creation 
   - Website creation 
-  Apart from the technical skills that I built through my experience in several companies, I consider myself as a great team player and strong analytical thinker.
+  
+  On top of the technical skills that I built throughout my experience in several companies, I consider myself as a great team player and strong analytical thinker.
 
 content:
   - title: Education # Title for the section
@@ -38,12 +39,12 @@ content:
         caption: 10/2015 - Present
         sub_title: Ionian University, GR
         description: | # this will include new lines to allow paragraphs
-          Specialisation in Information Systems.
+          Specialization in Information Systems.
           Main subjects of the currculum follow:
-          • Strategy and Management of Information Systems
-          • Analysis and Deisgin of Information Systems
-          • Supply Chain and Information Systems
-          • Electronic Commerce
+          - Strategy and Management of Information Systems
+          - Analysis and Deisgin of Information Systems
+          - Supply Chain and Information Systems
+          -Electronic Commerce
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
