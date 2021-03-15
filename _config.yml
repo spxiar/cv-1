@@ -21,12 +21,12 @@ github_username: p15xiar
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey there, I’m Spyros and I am senior student in the epartment of Informatics of the Ionian University. 
-  During my studies I gained a wide experience in the following fields 
-  • Constructive wireless networks 
-  • Hardware maintenance and repairing
-  • E-shop creation 
-  • Website creation 
+  Hey there, I’m Spyros and I am senior student in the Department of Informatics of the Ionian University. 
+  During my studies I gained a wide experience in the following fields:
+  - Constructive wireless networks 
+  - Hardware maintenance and repairing
+  - E-shop creation 
+  - Website creation 
   Apart from the technical skills that I built through my experience in several companies, I consider myself as a great team player and strong analytical thinker.
 
 content:
@@ -68,7 +68,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Apart my job releated interests I'm keen on:
+      Apart from the job related interests I'm keen on:
       - Vinyl Record Collection
       - Cooking
       - Hiking
