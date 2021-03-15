@@ -21,17 +21,39 @@ github_username: p15xiar
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Spyros and I'm an undergraduate student of Ionian University at the Department of Informatics. As well as constructing wireless networks and computer repairs I also have experience making websites and e-shops. I have worked at a number of companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>ubiquiti</mark> and <mark>Mikrotik</mark>
+  Hey there, I’m Spyros and I am senior student in the epartment of Informatics of the Ionian University. 
+During my studies I gained a wide experience in the following fields 
+• Constructive wireless networks 
+• Hardware maintenance and repairing
+• E-shop creation 
+• Website creation 
+Apart from the technical skills that I built through my experience in several companies, I consider myself as a great team player and strong analytical thinker.
 
 content:
+ - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: B.Sc. Informatics
+        caption: 10/2015 - Present
+        sub_title: Ionian University, GR
+        quote: >
+           
+        description: | # this will include new lines to allow paragraphs
+          Specialisation in Information Systems.
+          Main subjects of the currculum follow :
+          • Strategy and Management of Information Systems
+          • Analysis and Deisgin of Information Systems
+          • Supply Chain and Information Systems
+          • Electronic Commerce
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Messinian Networks | MNET | Kalamata
         sub_title: Network Construction Assistant
-        caption: September 2016 - August 2018
+        caption:  09/2016 - 08/2018
         quote: >
           Wireless Network Construction | Internet Provider 
         description: | # this will include new lines to allow paragraphs
@@ -40,22 +62,11 @@ content:
       - layout: left
         title: Spyretos Computer Service & Repair | Corfu
         sub_title: Computer Repair Assistant
-        caption: August 2018 - August 2019
+        caption: 08/2018 - 08/2019
         quote: >
           Computer Service and Repair 
         description: | # this will include new lines to allow paragraphs
-          As assistant in Spyretos' lab I've worked on a lot of computer repairs and . 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Ionian University | Department of Informatics | Corfu
-        caption: 2015 - 2022
-        sub_title: BSc at Information Systems
-        quote: >
-          The Ionian University was founded in 1984, the same year as the University of Thessaly and the University of the Aegean. The university comprises five faculties and twelve departments. Its seat is in Corfu, with university units in Lefkada, Kefalonia and Zakynthos.
-        description: | # this will include new lines to allow paragraphs
-          During my stay at Corfu I wanted to practice everything i got learned in class. That's why from the start of my second year in the university I started searching for work.
+          As assistant in Spyretos' lab I've worked on a lot of computer repairs and .
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
