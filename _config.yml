@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 github_username: p15xiar
-
+linkedin_username: spiros-xiarchos
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
@@ -73,7 +73,7 @@ content:
         caption: 01/2020 - Present
         description: | # this will include new lines to allow paragraphs
           - Web Site Creation and Development 
-          - E-Shop Development and deployment
+          - E-Shop Development and Deployment
           - Sound Design 
   - title: A Little More About Me
     layout: text
