@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Spyros Xiarchos
+name: Spiros Xiarchos
 title: Undergraduate Informatics Student
 email: sp@xiarchos.gr
 website: https://xiarchos.gr
@@ -40,7 +40,7 @@ content:
         sub_title: Ionian University, GR
         description: | # this will include new lines to allow paragraphs
           Specialization in Information Systems.
-          Main subjects of the currculum follow:
+          Main courses follow:
           - Strategy & Management of Information Systems
           - Analysis & Design of Information Systems
           - Information Systems & Supply Chain
