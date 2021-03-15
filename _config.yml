@@ -9,7 +9,7 @@ version: 2
 name: Spiros Xiarchos
 title: Undergraduate Informatics Student
 email: sp@xiarchos.gr
-website: https://xiarchos.gr
+website: xiarchos.gr
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   - E-shop creation 
   - Website creation 
   
-  On top of the technical skills that I built throughout my experience in several companies, I consider myself as a great team player and strong analytical thinker.
+  On top of the technical skills that were built throughout my experience in several companies, I consider myself as a great team player and strong analytical thinker.
 
 content:
   - title: Education # Title for the section
