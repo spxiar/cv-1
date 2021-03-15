@@ -15,7 +15,7 @@ website: https://xiarchos.gr
 darkmode: true
 
 # Social links
-github_username:  p15xiar
+github_username: p15xiar
 instagram_username: pipisxi
 
 # About Section
@@ -31,7 +31,7 @@ content:
     content:
       - layout: left
         title: Messinian Networks | MNET | Kalamata
-        sub_title: Senior Network Constructor
+        sub_title: Network Construction Assistant
         caption: September 2016 - August 2020
         quote: >
           Wireless Network Construction | Internet Provider 
@@ -43,7 +43,7 @@ content:
       - layout: left
         title: Ionian University | Department of Informatics | Corfu
         caption: 2015 - 2022
-        sub_title: BSc Information Systems
+        sub_title: BSc at Information Systems
         quote: >
           The Ionian University was founded in 1984, the same year as the University of Thessaly and the University of the Aegean. The university comprises five faculties and twelve departments. Its seat is in Corfu, with university units in Lefkada, Kefalonia and Zakynthos.
         description: | # this will include new lines to allow paragraphs
