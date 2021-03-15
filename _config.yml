@@ -21,7 +21,7 @@ github_username: p15xiar
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Spyros and I'm a senior network constructor and undergraduate student of Ionian University at the Department of Informatics. As well as constructing wireless networks I also have experience making websites and e-shops. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Spyros and I'm an undergraduate student of Ionian University at the Department of Informatics. As well as constructing wireless networks and computer repairs I also have experience making websites and e-shops. I have worked at a number of companies gaining teamwork and leadership skills.
   I am most skilled in: <mark>ubiquiti</mark> and <mark>Mikrotik</mark>
 
 content:
@@ -31,11 +31,20 @@ content:
       - layout: left
         title: Messinian Networks | MNET | Kalamata
         sub_title: Network Construction Assistant
-        caption: September 2016 - August 2020
+        caption: September 2016 - August 2018
         quote: >
           Wireless Network Construction | Internet Provider 
         description: | # this will include new lines to allow paragraphs
           As Network Constructor for MNET I've worked on establishing wireless links up to 15km. 
+    content:
+      - layout: left
+        title: Spyretos Computer Service & Repair | Corfu
+        sub_title: Computer Repair Assistant
+        caption: August 2018 - August 2019
+        quote: >
+          Computer Service and Repair 
+        description: | # this will include new lines to allow paragraphs
+          As assistant in Spyretos' lab I've worked on a lot of computer repairs and . 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
