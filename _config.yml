@@ -22,12 +22,12 @@ github_username: p15xiar
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hey there, I’m Spyros and I am senior student in the epartment of Informatics of the Ionian University. 
-During my studies I gained a wide experience in the following fields 
-• Constructive wireless networks 
-• Hardware maintenance and repairing
-• E-shop creation 
-• Website creation 
-Apart from the technical skills that I built through my experience in several companies, I consider myself as a great team player and strong analytical thinker.
+  During my studies I gained a wide experience in the following fields 
+  • Constructive wireless networks 
+  • Hardware maintenance and repairing
+  • E-shop creation 
+  • Website creation 
+  Apart from the technical skills that I built through my experience in several companies, I consider myself as a great team player and strong analytical thinker.
 
 content:
  - title: Education # Title for the section
@@ -41,7 +41,7 @@ content:
            
         description: | # this will include new lines to allow paragraphs
           Specialisation in Information Systems.
-          Main subjects of the currculum follow :
+          Main subjects of the currculum follow:
           • Strategy and Management of Information Systems
           • Analysis and Deisgin of Information Systems
           • Supply Chain and Information Systems
@@ -70,10 +70,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks some of my other interests and hobbies are:
+      Apart my job releated interests I'm keen on:
       - Vinyl Record Collection
       - Cooking
       - Hiking
+      - MotoGP Fan
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
