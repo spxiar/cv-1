@@ -50,29 +50,38 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Messinian Networks | MNET | Kalamata
-        sub_title: Network Construction Assistant
+        title: Network Construction Assistant
+        sub_title: MNET, GR
         caption:  09/2016 - 08/2018
-        quote: >
-          Wireless Network Construction | Internet Provider 
         description: | # this will include new lines to allow paragraphs
-          As Network Constructor for MNET I've worked on establishing wireless links up to 15km. 
+          - Wireless Link Construction
+          -
+          -
     content:
       - layout: left
-        title: Spyretos Computer Service & Repair | Corfu
-        sub_title: Computer Repair Assistant
+        title: Hardware Maintainance and Repairing Assistant
+        sub_title: Spyretos Computer Service and Repair
         caption: 08/2018 - 08/2019
-        quote: >
-          Computer Service and Repair 
         description: | # this will include new lines to allow paragraphs
-          As assistant in Spyretos' lab I've worked on a lot of computer repairs and .
+          - Hardware Repairing & Maintenance
+          - IT Technical Support
+          - Customer Care Services
+    content:
+      - layout: left
+        title: Web and Sound Services Freelancer
+        sub_title: Freelancer
+        caption: 01/2020 - Present
+        description: | # this will include new lines to allow paragraphs
+          - Web Site Creation and Development 
+          - E-Shop Development and deployment
+          - Sound Design 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Apart from the job related interests I'm keen on:
-      - Vinyl Record Collection
       - Tech Savvy
-      - Cooking
+      - Vinyl Record Collection
+      - Music Production
       - Hiking
       - MotoGP Fan
 # Footer
