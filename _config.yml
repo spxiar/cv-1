@@ -50,7 +50,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        ---
         title: Network Expansion Assistant
         sub_title: MNET, Kalamata GR
         caption:  11/2015 - 08/2018
