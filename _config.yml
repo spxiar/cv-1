@@ -50,15 +50,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        :[
+        ---
         title: Network Expansion Assistant
         sub_title: MNET, Kalamata GR
         caption:  11/2015 - 08/2018
         description: | # this will include new lines to allow paragraphs
           - Wireless Link Expansion and Maintenance
           - IT Tech Support
-          ]
-        :[    
+        ---   
         title: Hardware Maintainance and Repairing Assistant
         sub_title: Spyretos Computer Service and Repair, Corfu GR
         caption: 08/2018 - 08/2019
@@ -66,9 +65,7 @@ content:
           - Hardware Repairing & Maintenance
           - IT Technical Support
           - Customer Care Services
-        ]           
-    content:
-      - layout: left
+        ---
         title: Web and Sound Services Freelancer
         sub_title: Freelance
         caption: 09/2019 - Present
