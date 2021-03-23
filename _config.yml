@@ -18,11 +18,13 @@ darkmode: true
 github_username: p15xiar
 linkedin_username: spxiar
 
+# Additional links
 additional_links:
 - title: CV in PDF format
   icon: fas fa-file
   url: https://xiarchos.gr/pdf/cv.pdf
 
+# About Section
 about_profile_image: images/profile.jpg
 about_content: | 
   During my studies I gained a wide experience in the following fields:
@@ -33,7 +35,7 @@ about_content: |
   
   On top of the technical skills that were built throughout my experience in several companies, I consider myself as a great team player and strong analytical thinker.
 
-content:        
+content:       
   - title: Education
     layout: list
     content:
