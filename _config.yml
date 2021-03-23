@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Spiros Xiarchos
-title: Web and Sound Services Freelancer
+title: Information Systems Specialist
 email: sp@xiarchos.gr
 website: xiarchos.gr
 
@@ -50,12 +50,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Network Expansion Assistant
-        sub_title: MNET, Kalamata GR
-        caption:  11/2015 - 08/2018
+        title: Web and Sound Services Freelancer
+        sub_title: Freelance
+        caption: 09/2019 - Present
         description: | # this will include new lines to allow paragraphs
-          - Wireless Link Expansion and Maintenance
-          - IT Tech Support 
+          - Web Site Creation and Development
+          - E-Shop Creation and Development
+          - Sound Design and Mix
       - layout: left
         title: Hardware Maintainance and Repairing Assistant
         sub_title: Spyretos Computer Service and Repair, Corfu GR
@@ -65,13 +66,12 @@ content:
           - IT Technical Support
           - Customer Care Services
       - layout: left
-        title: Web and Sound Services Freelancer
-        sub_title: Freelance
-        caption: 09/2019 - Present
+        title: Network Expansion Assistant
+        sub_title: MNET, Kalamata GR
+        caption:  11/2015 - 08/2018
         description: | # this will include new lines to allow paragraphs
-          - Web Site Creation and Development 
-          - E-Shop Creation and Development 
-          - Sound Design and Mix 
+          - Wireless Link Expansion and Maintenance
+          - IT Tech Support
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
