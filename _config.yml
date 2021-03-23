@@ -17,8 +17,12 @@ darkmode: true
 # Social links
 github_username: p15xiar
 linkedin_username: spxiar
-# About Section
-# about_title: About Me
+
+additional_links:
+- title: CV in PDF format
+  icon: images/favicon.ico
+  url: https://xiarchos.gr/pdf/cv.pdf
+
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hey there, I’m Spyros and I am a senior student in the Department of Informatics of the Ionian University. 
