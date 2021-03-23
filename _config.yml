@@ -20,7 +20,7 @@ linkedin_username: spxiar
 
 additional_links:
 - title: CV in PDF format
-  icon: far fa-file
+  icon: fas fa-file
   url: https://xiarchos.gr/pdf/cv.pdf
 
 about_profile_image: images/profile.jpg
