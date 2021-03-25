@@ -19,10 +19,10 @@ github_username: p15xiar
 linkedin_username: spxiar
 
 # Additional links
-additional_links:
-- title: CV in PDF format
-  icon: fas fa-file
-  url: https://xiarchos.gr/pdf/cv.pdf
+#additional_links:
+        #- title: CV in PDF format
+  #  icon: fas fa-file
+  #  url: https://xiarchos.gr/pdf/cv.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
