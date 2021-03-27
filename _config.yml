@@ -27,7 +27,8 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | 
-  During my studies I gained a wide experience in the following fields:
+  Hey there, I’m Spyros and I am a senior student in the Department of Informatics of the Ionian University.
+        During my studies I gained a wide experience in the following fields:
   - Constructive wireless networks 
   - Hardware maintenance and repairing
   - E-shop creation 
@@ -86,7 +87,7 @@ content:
       - Music Production
       - MotoGP Fan
 # Footer
-footer_show_references: false
+#footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
