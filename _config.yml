@@ -88,7 +88,7 @@ content:
       - Music Production
       - MotoGP Fan
 # Footer
-#footer_show_references: false
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
