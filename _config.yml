@@ -29,13 +29,14 @@ about_profile_image: images/profile.jpg
 about_content: | 
   Hey there, I’m Spyros and I am a senior student in the Department of Informatics of the Ionian University.
   
-  During my studies I gained a wide experience in the following fields:
-  - Constructive wireless networks 
-  - Hardware maintenance and repairing
-  - E-shop creation 
-  - Website creation 
+  I am interested but not limited to gain experience in the following areas:
+  - Mobile development (iOS only)
+  - Web development (e.g. React or Angular)
+  - End-to-end testing suites (e.g. puppeteer)
+  - Networking (Firewalling, SDWAN)
+  - E-shop Frameworks (e.g. WooCommerce or Magento)
   
-  On top of the technical skills that were built throughout my experience in several companies, I consider myself as a great team player and strong analytical thinker.
+ Because just technical skills are good enough to work with computers, to work with people I have developed team working skills and I am considered from my peers as a strong analytical thinker.
 
 content:       
   - title: Education
@@ -77,7 +78,7 @@ content:
         sub_title: MNET, Kalamata GR
         caption:  11/2015 - 08/2018
         description: |
-          - Wireless Link Expansion and Maintenance
+          - Wireless Link Setup, Expansion and Maintenance
           - IT Tech Support
   - title: A Little More About Me
     layout: text
