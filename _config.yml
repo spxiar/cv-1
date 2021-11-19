@@ -57,11 +57,11 @@ content:
   - title: Experience
     layout: list
     content:
-    - layout: left
-        title: 
+      - layout: left
+        title: WISP Managment
         sub_title: MNET, Kalamata GR
         caption:  06/2016 - Present
-        description: WISP |
+        description: |
           - NMS 
           - Customer Care Servises
           - IT Tech Support
