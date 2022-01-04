@@ -52,9 +52,8 @@ content:
           Main courses follow:
           - Electronic Commerce/Information Systems and Supply Management
           - Analysis and Design of Information Systems/Strategic Management of Information Systems
-          - Software and Application Security/Communications and Network Security/Information System Security Managment
+          - Software, Application, Communications and Network Security/Information System Security Managment
           - Information Privacy Policies and Enhancing Technologies/Social and Legal Issues of ICTs
-          -
   - title: Experience
     layout: list
     content:
@@ -63,8 +62,7 @@ content:
         sub_title: MNET, Kalamata GR
         caption:  06/2016 - Present
         description: |
-          - NMS 
-          - Customer Care Servises
+          - NMS Operator
           - IT Tech Support
       - layout: left
   - title: A Little More About Me
