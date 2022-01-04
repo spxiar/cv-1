@@ -9,20 +9,20 @@ version: 2
 name: Spiros Xiarchos
 title: Information Systems Specialist
 email: sp@xiarchos.gr
-website: xiarchos.gr
+website: sp@xiarchos.gr
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-github_username: p15xiar
+github_username: spxiar
 linkedin_username: spxiar
 
 # Additional links
 additional_links:
  - title: CV in PDF format
    icon: fas fa-file
-   url: https://xiarchos.gr/pdf/cv.pdf
+   url: https://sp.xiarchos.gr/pdf/cv.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
@@ -50,10 +50,11 @@ content:
           Specialization in Information Systems.
           
           Main courses follow:
-          - Strategy & Management of Information Systems
-          - Analysis & Design of Information Systems
-          - Information Systems & Supply Chain
-          - Electronic Commerce
+          - Electronic Commerce/Information Systems and Supply Management
+          - Analysis and Design of Information Systems/Strategic Management of Information Systems
+          - Software and Application Security/Communications and Network Security/Information System Security Managment
+          - Information Privacy Policies and Enhancing Technologies/Social and Legal Issues of ICTs
+          -
   - title: Experience
     layout: list
     content:
