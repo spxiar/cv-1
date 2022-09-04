@@ -58,18 +58,29 @@ content:
     layout: list
     content:
       - layout: left
-        title: WISP Network Managment
+        title: Network Managment/IT Support
         sub_title: Messinian Networks, Kalamata GR
-        caption:  01/07/2016 - Present
+        caption: 23/06/2016 - Present
         description: |
-          I'm MNET's first employee! Back then i used to work as Wirless Links Technician for the first year. After that I moved to Corfu and worked as IT Support Technician for MNET's clients there until the end of 2020. Since the start of 2021 I moved back to Kalamata and became Network Manager at MNET's Wireless Network.          I'm MNET 
+          A
+          - 23/06/2016 - 31/08/2016: training as network installer assistant and as IT Support
+          - 01/09/2016 - 20/06/2021: IT Support and Network Manament at companies/clients of MNET at Corfu (mostly architect offices)
+          - 21/06/2021 - Present: WISP Network and Customer Support Manager.
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Network Managment/IT Support
+        sub_title: NET 7, Corfu GR
+        caption: 01/03/2022 - Present
+        description: |
+          WISP Network and Customer Support Manager
   - title: A Little More About Me
     layout: text
     content: |
       Apart from the job related interests I'm keen on:
       - Tech Savvy
-      - Vinyl Record Collection
-      - Music Production
+      - Audiophilism and Vinyl Record Collection
       - MotoGP Fan
 # Footer
 #footer_show_references: false
