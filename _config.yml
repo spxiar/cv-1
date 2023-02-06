@@ -63,15 +63,15 @@ content:
         caption: 23/06/2016 - Present
         description: |
           - 23/06/2016 - 31/08/2016: training as network installer assistant and as IT Support.
-          - 01/09/2016 - 20/06/2021: IT Support and Network Manament at companies/clients of MNET at Corfu (mostly architect offices).
+          - 01/09/2016 - 20/06/2021: IT Support and Network Manament at companies/clients of MNET at Corfu (mostly in business clients).
           - 21/06/2021 - Present: WISP Network and Customer Support Manager.
-    content:
-      - layout: left
+          
         title: Network Managment/IT Support
         sub_title: NET 7, Corfu GR
         caption: 01/03/2022 - Present
         description: |
-           WISP Network and Customer Support Manager
+           - WISP Network Manager
+           - Customer Support Manager
   - title: A Little More About Me
     layout: text
     content: |
