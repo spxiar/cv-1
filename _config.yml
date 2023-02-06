@@ -65,13 +65,19 @@ content:
           - 23/06/2016 - 31/08/2016: training as network installer assistant and as IT Support at Kalamata.
           - 01/09/2016 - 20/06/2021: B2B IT Support and Network Managment at Corfu.
           - 21/06/2021 - 30/11/2022: WISP Network Management and Customer Support Service at Kalamata (Hybrid).
-          
-        title: Network Managment/IT Support
+      - layout: left  
+        title: Network Managment/Customer Support
         sub_title: NET 7, Corfu GR
         caption: 01/03/2022 - Present
         description: |
            - WISP Network Manager
            - Customer Support Manager
+      - layout: left  
+        title: Network Administrator
+        sub_title: Intercompass MPD LTD, Glyfada, GR
+        caption: 01/06/2022 - Present
+        description: |
+           - Network Design, Deployment and Administration
   - title: A Little More About Me
     layout: text
     content: |
