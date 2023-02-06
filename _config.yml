@@ -77,14 +77,13 @@ content:
         sub_title: Intercompass MPD LTD, Glyfada, GR
         caption: 01/06/2022 - Present
         description: |
-           - Network Design, Deployment and Administration
+           - Network Design, Deployment and Administration.
   - title: A Little More About Me
     layout: text
     content: |
       Apart from the job related interests I'm keen on:
-      - Tech Savvy
       - Audiophilism and Vinyl Record Collection
-      - MotoGP Fan
+      - MotoGP
 # Footer
 #footer_show_references: false
 
