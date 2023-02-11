@@ -45,7 +45,7 @@ content:
       - layout: left
         title: B.Sc. Informatics
         caption: 01/10/2015 - Present
-        sub_title: Ionian University, GR
+        sub_title: Ionian University, Corfu GR
         description: |
           Specialization in Information Systems.
           
@@ -59,7 +59,7 @@ content:
     content:
       - layout: left  
         title: Network Administrator
-        sub_title: Intercompass MPD LTD, Glyfada, GR
+        sub_title: Intercompass MPD, Glyfada GR
         caption: 01/06/2022 - Present
         description: |
            - Network Design, Deployment and Administration.
