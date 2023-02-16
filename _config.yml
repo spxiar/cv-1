@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Spiros Xiarchos
 title: Information Systems Specialist
-email: contact@xiarchos.gr
+email: sp@xiarchos.gr
 website: sp.xiarchos.gr
 
 # Dark Mode (true/false/never)
@@ -90,7 +90,7 @@ content:
 #footer_show_references: false
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# theme: modern-resume-theme
 remote_theme: sproogen/modern-resume-theme
 
 sass:
