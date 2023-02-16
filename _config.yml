@@ -1,8 +1,6 @@
-# Site
 repository: spxiar/cv-1
 favicon: images/favicon.ico
 
-# Content configuration version
 version: 2
 
 # Personal info
@@ -11,20 +9,16 @@ title: Network Administrator
 email: sp@xiarchos.gr
 website: sp.xiarchos.gr
 
-# Dark Mode (true/false/never)
 darkmode: true
 
-# Social links
 github_username: spxiar
 linkedin_username: spxiar
 
-# Additional links
 additional_links:
  - title: CV in PDF format
    icon: fas fa-file
    url: https://sp.xiarchos.gr/pdf/cv.pdf
 
-# About Section
 about_profile_image: images/profile.jpg
 about_content: | 
   Hey there, I’m Spiros and I am an undergraduate student in the Department of Informatics of the Ionian University.
@@ -86,11 +80,7 @@ content:
       - Traveling
       - Audiophilism and Vinyl Records
       - MotoGP
-# Footer
-#footer_show_references: false
 
-# Build settings
-# theme: modern-resume-theme
 remote_theme: sproogen/modern-resume-theme
 
 sass:
@@ -112,4 +102,3 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
- 
