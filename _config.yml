@@ -5,6 +5,7 @@ version: 2
 
 name: Spiros Xiarchos
 title: Network Engineer
+Location: Viron, Attiki, Greece
 email: sp@xiarchos.gr
 website: sp.xiarchos.gr
 
@@ -37,7 +38,8 @@ content:
     content:
       - layout: left
         title: B.Sc. Informatics
-        caption: 01/10/2015 - Present
+        caption: 10/2015 - 06/23
+                 (Thesis Pending)
         sub_title: Ionian University, Corfu GR
         description: |
           Specialization in Information Systems.
@@ -53,25 +55,25 @@ content:
       - layout: left  
         title: Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
-        caption: 01/06/2022 - Present
+        caption: 06/2022 - Present
         description: |
            - Network Design, Deployment and Administration (Mikrotik/Cisco).
            - System Operations Assitant (WHM CPanel/Direct Admin/Microsoft 365/Proxmox/Synology/NextCLoud/OSTicket System/SnipeIT).
       - layout: left  
         title: Network Management/Customer Support
         sub_title: NET 7, Corfu GR
-        caption: 01/03/2022 - Present
+        caption: 03/2022 - Present
         description: |
            - WISP Network Manager (Ubiquiti/Mikrotik)
            - Customer Support Manager (UISP CRM)
       - layout: left
         title: Network Management/IT Support
         sub_title: Messinian Networks, Kalamata GR
-        caption: 23/06/2016 - 30/11/2022
+        caption: 06/2016 - 11/2022
         description: |
-          - 23/06/2016 - 31/08/2016: Training on Network Installations and IT Support (Kalamata). (Mikrotik/Ubiquiti)
-          - 01/09/2016 - 20/06/2021: B2B IT Support and Network Management (Corfu). (Mikrotik/Synology/VMware)
           - 21/06/2021 - 30/11/2022: Network Management and Customer Support Service (Kalamata). (UISP CRM/NMS) (Hybrid)
+          - 01/09/2016 - 20/06/2021: B2B IT Support and Network Management (Corfu). (Mikrotik/Synology/VMware)
+          - 23/06/2016 - 31/08/2016: Training on Network Installations and IT Support (Kalamata). (Mikrotik/Ubiquiti)
   - title: A Little More About Me
     layout: text
     content: |
