@@ -55,14 +55,14 @@ content:
       - layout: left  
         title: Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
-        caption: 06/2022 - Present
+        caption: 06/2022 - 05/2023
         description: |
            - Network Design, Deployment and Administration (Mikrotik/Cisco).
            - System Operations Assitant (WHM CPanel/Direct Admin/Microsoft 365/Proxmox/Synology/NextCLoud/OSTicket System/SnipeIT).
       - layout: left  
         title: Network Management Customer Support
         sub_title: NET 7, Corfu GR
-        caption: 03/2022 - Present
+        caption: 03/2022 - 03/2023
         description: |
            - WISP Network Manager (Ubiquiti/Mikrotik).
            - Customer Support Manager (UISP CRM).
