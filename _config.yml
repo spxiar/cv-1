@@ -58,9 +58,9 @@ content:
         caption: 06/2022 - 05/2023
         description: |
            - Network Design, Deployment and Administration (Mikrotik/Cisco).
-           - System Operations Assitant (WHM CPanel/Direct Admin/Microsoft 365/Proxmox/Synology/NextCLoud/OSTicket System/SnipeIT).
+           - System Operations Assitant (WHM CPanel/Direct Admin/Microsoft 365/Proxmox/Synology).
       - layout: left  
-        title: Network Management Customer Support
+        title: Network Management/Customer Support
         sub_title: NET 7, Corfu GR
         caption: 03/2022 - 03/2023
         description: |
