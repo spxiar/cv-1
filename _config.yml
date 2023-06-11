@@ -52,6 +52,17 @@ content:
   - title: Experience
     layout: list
     content:
+    - layout: left  
+        title: IT & Network Consultant
+        sub_title: Freelance, Athens GR
+        caption: 06/2023 - 
+        description: |
+           - Web Development (mostly Wordpress) / E-Shop Frameworks (mostly WooCommerce)
+           - App Development (Custumisation and Deployment of Open Source Applications)
+           - Azure, Office 365, Active Directory Services, MS Exchange, VMware and Proxmox Administration
+           - Network Design, Implementation and Support
+           - Fileserver and Remote Backup Solutions
+           - Website/Email Hosting
       - layout: left  
         title: Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
