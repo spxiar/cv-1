@@ -52,7 +52,7 @@ content:
   - title: Experience
     layout: list
     content:
-    - layout: left  
+      - layout: left  
         title: IT & Network Consultant
         sub_title: Freelance, Athens GR
         caption: 06/2023 - 
