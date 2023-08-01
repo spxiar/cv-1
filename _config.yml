@@ -38,7 +38,7 @@ content:
     content:
       - layout: left
         title: B.Sc. Informatics
-        caption: 10/2015 - 06/23
+        caption: 10/2015 - 09/23
                  (Thesis Pending)
         sub_title: Ionian University, Corfu GR
         description: |
@@ -55,7 +55,7 @@ content:
       - layout: left  
         title: IT & Network Consultant
         sub_title: Freelance, Athens GR
-        caption: 06/2023 - 
+        caption: 06/2021 - Present
         description: |
            - Web Development (mostly Wordpress) / E-Shop Frameworks (mostly WooCommerce)
            - App Development (Custumisation and Deployment of Open Source Applications)
@@ -64,12 +64,23 @@ content:
            - Fileserver and Remote Backup Solutions
            - Website/Email Hosting
       - layout: left  
+        title: Network Engineer
+        sub_title: Marpoint Ltd, Marousi GR
+        caption: 06/2022 - 05/2023
+        description: |
+           - Configuration and Maintenance of Networking Eqipment (Routers / Switches / Access Points / 4G-5G Antennas)(Mikrotik).
+           - Network Architecture and Installation.
+           - Network and ICT Support.
+           - Server and NAS Configuration, Installation, Maintenance and Troobleshouting (Proxmox / Windows Serveer / Synology).
+           - Creation of detailed technical documentation for project implementations and integrations.
+      - layout: left  
         title: Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
         caption: 06/2022 - 05/2023
         description: |
            - Network Design, Deployment and Administration (Mikrotik/Cisco).
            - System Operations Assitant (WHM CPanel/Direct Admin/Microsoft 365/Proxmox/Synology).
+           - Comprehensive project documentation deployment. 
       - layout: left  
         title: Network Management/Customer Support
         sub_title: NET 7, Corfu GR
