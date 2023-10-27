@@ -105,7 +105,7 @@ content:
       - Audiophilism and Vinyl Records
       - MotoGP
 
-footer_show_references: true
+footer_show_references: false
 
 remote_theme: sproogen/resume-theme
 
