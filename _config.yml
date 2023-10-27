@@ -32,22 +32,7 @@ about_content: |
   
   Technical skills are not the only area I have developed through my expirience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and provide quality results.
 
-content:       
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: B.Sc. Informatics
-        caption: 10/2015 - 09/23
-        sub_title: Ionian University, Corfu GR
-        description: |
-          Specialization in Information Systems.
-          
-          Main courses follow:
-          - Electronic Commerce/Information Systems and Supply Management
-          - Analysis and Design of Information Systems/Strategic Management of Information Systems
-          - Software, Application, Communications and Network Security/Information System Security Management
-          - Information Privacy Policies and Enhancing Technologies/Social and Legal Issues of ICTs
+content:
   - title: Experience
     layout: list
     content:
@@ -72,7 +57,7 @@ content:
            - Network and ICT Support.
            - Server and NAS Configuration, Installation, Maintenance and Troobleshouting (Proxmox / Windows Serveer / Synology).
            - Creation of detailed technical documentation for project implementations and integrations.
-	   - Testing develoment changes on Azure Platform.
+	         - Testing develoment changes on Azure Platform.
       - layout: left  
         title: Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
@@ -96,6 +81,23 @@ content:
           - 21/06/2021 - 30/11/2022: Network Management and Customer Support Service (Kalamata). (UISP CRM/NMS)
           - 01/09/2016 - 20/06/2021: B2B IT Support and Network Management (Corfu). (Mikrotik/Synology/VMware)
           - 23/06/2016 - 31/08/2016: Training on Network Installations and IT Support (Kalamata). (Mikrotik/Ubiquiti)
+       
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: B.Sc. Informatics
+        caption: 10/2015 - 09/23
+        sub_title: Ionian University, Corfu GR
+        description: |
+          Specialization in Information Systems.
+          
+          Main courses follow:
+          - Electronic Commerce/Information Systems and Supply Management
+          - Analysis and Design of Information Systems/Strategic Management of Information Systems
+          - Software, Application, Communications and Network Security/Information System Security Management
+          - Information Privacy Policies and Enhancing Technologies/Social and Legal Issues of ICTs
+
   - title: A Little More About Me
     layout: text
     content: |
@@ -104,7 +106,12 @@ content:
       - Audiophilism and Vinyl Records
       - MotoGP
 
-remote_theme: sproogen/modern-resume-theme
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
@@ -112,16 +119,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
