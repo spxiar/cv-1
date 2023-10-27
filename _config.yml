@@ -31,7 +31,6 @@ about_content: |
   - End-to-end testing suites (e.g. puppeteer)
   
   Technical skills are not the only area I have developed through my expirience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and provide quality results.
-
 content:
   - title: Experience
     layout: list
@@ -106,11 +105,8 @@ content:
       - Audiophilism and Vinyl Records
       - MotoGP
 
-# Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
-# Build settings
 remote_theme: sproogen/resume-theme
 
 sass:
