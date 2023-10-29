@@ -96,6 +96,17 @@ content:
           - Analysis and Design of Information Systems/Strategic Management of Information Systems
           - Software, Application, Communications and Network Security/Information System Security Management
           - Information Privacy Policies and Enhancing Technologies/Social and Legal Issues of ICTs
+  
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title:
+        caption:
+        sub_title:
+        description: |
+          - Mikrotik [MTCNA](https://mikrotik.com/training/certificates/c264822c1de9e185f5d1) (28/05/2023 - 28/05/2026)
+          - Examination for the Certificate in Competency in English (ECCE)  Michigan University
 
   - title: A Little More About Me
     layout: text
