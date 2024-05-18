@@ -21,14 +21,13 @@ additional_links:
 
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hey there, I’m Spiros and I am an undergraduate student in the Department of Informatics of the Ionian University.
+  Hey there, Im Spiros, an ICT Engineer graduate from the Department of Informatics at the Ionian University.
   
   My interests include, but are not limited to, gaining experience in the following areas:
-  - Networking (Firewalling, SDWAN)
-  - Web development (e.g. React or Angular)
-  - E-shop Frameworks (e.g. WooCommerce or Magento)
-  - Mobile development (iOS only)
-  - End-to-end testing suites (e.g. puppeteer)
+  - Networking
+  - Server Infrastructures
+  - Web Development
+  - E-shop Frameworks
   
   Technical skills are not the only area I have developed through my expirience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and provide quality results.
 content:
@@ -52,8 +51,8 @@ content:
         caption: 06/2022 - 05/2023
         description: |
            - Configuration and Maintenance of Networking Eqipment (Routers / Switches / Access Points / 4G-5G Antennas)(Mikrotik).
-           - Network Architecture and Installation.
-           - Network and ICT Support.
+           - Network Architecture Design and Installation.
+           - ICT Support.
            - Server and NAS Configuration, Installation, Maintenance and Troobleshouting (Proxmox / Windows Serveer / Synology).
            - Creation of detailed technical documentation for project implementations and integrations.
            - Testing develoment changes on Azure Platform.
