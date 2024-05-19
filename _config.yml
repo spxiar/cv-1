@@ -46,9 +46,9 @@ content:
            - Fileserver and Remote Backup Solutions
            - Website/Email Hosting
       - layout: left  
-        title: Network Engineer
+        title: ICT Engineer
         sub_title: Marpoint Ltd, Marousi GR
-        caption: 06/2022 - 05/2023
+        caption: 04/2023 - Present 
         description: |
            - Configuration and Maintenance of Networking Eqipment (Routers / Switches / Access Points / 4G-5G Antennas)(Mikrotik).
            - Network Architecture Design and Installation.
@@ -74,7 +74,7 @@ content:
       - layout: left
         title: Network Management/IT Support
         sub_title: Messinian Networks, Kalamata GR
-        caption: 06/2016 - 11/2022
+        caption: 06/2016 - 11/2023
         description: |
           - 21/06/2021 - 30/11/2022: Network Management and Customer Support Service (Kalamata). (UISP CRM/NMS)
           - 01/09/2016 - 20/06/2021: B2B IT Support and Network Management (Corfu). (Mikrotik/Synology/VMware)
