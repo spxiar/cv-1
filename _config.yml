@@ -54,7 +54,7 @@ content:
            - Configuration and Maintenance of Networking Eqipment (Routers / Switches / Access Points / 4G-5G Antennas)(Mikrotik).
            - Network Architecture Design and Installation.
            - ICT Support.
-           - Server and NAS Configuration, Installation, Maintenance and Troobleshouting (Proxmox / Windows Serveer / Synology).
+           - Server and NAS Configuration, Installation, Maintenance and Troobleshouting (Proxmox / Windows Server / Synology).
            - Creation of detailed technical documentation for project implementations and integrations.
            - Testing develoment changes on Azure Platform.
       - layout: left  
