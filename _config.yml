@@ -40,12 +40,13 @@ content:
         sub_title: Freelance, Athens GR
         caption: 06/2021 - Present
         description: |
-           - Web Development (mostly Wordpress) / E-Shop Frameworks (mostly WooCommerce)
-           - App Development (Custumisation and Deployment of Open Source Applications)
-           - Office 365, VMware and Proxmox Administration
+           - Web Development and E-Shop Frameworks
+           - Application Development
+           - Virtualization and Docker Container Management
            - Network Design, Implementation and Support
-           - Fileserver and Remote Backup Solutions
-           - Website/Email Hosting
+           - Fileservers and Remote Backup Solutions
+           - Cloud Hosting
+           - Pipeline Implementation and Maintenance
       - layout: left  
         title: ICT Engineer
         sub_title: Marpoint Ltd, Marousi GR
@@ -53,10 +54,10 @@ content:
         description: |
            - Configuration and Maintenance of Networking Eqipment (Routers / Switches / Access Points / 4G-5G Antennas)(Mikrotik).
            - Network Architecture Design and Installation.
-           - ICT Support.
-           - Server and NAS Configuration, Installation, Maintenance and Troobleshouting (Proxmox / Windows Server / Synology).
+           - Server and NAS Configuration, Installation, Maintenance and Troubleshooting (Proxmox / Windows Server / Synology).
            - Creation of detailed technical documentation for project implementations and integrations.
-           - Testing develoment changes on Azure Platform.
+           - Technical Support.
+           - Testing develoment updates on Azure Platform.
       - layout: left  
         title: Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
