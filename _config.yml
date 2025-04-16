@@ -29,6 +29,7 @@ about_content: |
   - Web Development (Angular, React)
   - Virtualization Management (Proxmox)
   - Docker Containers
+  - Automations / Orchestration (Ansible /Terraform)
   
   Technical skills are not the only area I have developed through my expirience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and provide quality results.
 content:
@@ -57,6 +58,7 @@ content:
            - Server and NAS Configuration, Installation, Maintenance and Troubleshooting (Proxmox / Windows Server / Synology).
            - Creation of detailed technical documentation for project implementations and integrations.
            - Technical Support.
+           - Ansible Automations.
            - Testing develoment updates on Azure Platform.
       - layout: left  
         title: Network Administrator
@@ -110,6 +112,7 @@ content:
         description: |
           - [MikroTik Certified Network Associate](https://mikrotik.com/training/certificates/c264822c1de9e185f5d1) (28/05/2023 - 28/05/2026)
           - [MikroTik Certified Routing Engineer](https://mikrotik.com/training/certificates/c337407ce55ae2ef4d64) (01/09/2024 - 01/09/2027)
+          - MikroTik Certified User Management Engineer (14/04/2025 - 14/04/2028)
           - Examination for the Certificate in Competency in English (ECCE)  Michigan University
 
   - title: A Little More About Me
