@@ -54,10 +54,10 @@ content:
         description: |
            - Configuration and Maintenance of Networking Eqipment (Routers / Switches / Access Points / 4G-5G Antennas)(Mikrotik).
            - Network Architecture Design and Installation.
-           - Windows Server and Configuration, Installation, Maintenance and Troubleshooting
-	   - Active Directory.
-	   - Virtualization (Proxmox).
-	   - Docker Containers.
+           - Windows Server and Configuration, Installation, Maintenance and Troubleshooting.
+           - Active Directory.
+           - Virtualization (Proxmox).
+           - Docker Containers.
            - Creation of detailed technical documentation for project implementations and integrations.
            - Technical Support.
       - layout: left  
