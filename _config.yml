@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 version: 2
 
 name: Spiros Xiarchos
-title: ICT Engineer
+title: Systems Administrator
 location: Viron, Attiki, Greece
 email: sp@xiarchos.gr
 website: sp.xiarchos.gr
@@ -21,7 +21,7 @@ additional_links:
 
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hey there, Im Spiros, an ICT Engineer graduate from the Department of Informatics at the Ionian University.
+  Hey there, Im Spiros, a Systems Administrator and a graduate from the Department of Informatics at the Ionian University.
   
   After building a solid foundation in Networking (Cisco, MikroTik, Ubiquiti) and Systems Administration (Windows/Linux/MacOS), I am now deepening my expertise in modern DevOps and automation practices
   Currently, Im actively working with and exploring technologies such as:
