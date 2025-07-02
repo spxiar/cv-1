@@ -5,7 +5,7 @@ version: 2
 
 name: Spiros Xiarchos
 title: Systems Administrator
-location: Viron, Attiki, Greece
+location: Papagos, Attiki, Greece
 email: sp@xiarchos.gr
 website: sp.xiarchos.gr
 
@@ -42,48 +42,52 @@ content:
         sub_title: Freelance, Athens GR
         caption: 06/2021 - Present
         description: |
-           - Network Design, Implementation and Support.
-           - Virtualization and Containerization.
-           - Fileservers and Remote Backup Solutions
-           - Cloud Hosting
-           - Pipeline Implementation and Maintenance
-           - System & Network Automation
+           - Designed and implemented scalable network architectures for diverse client environments, from small business to enterprise-level deployments.
+           - Deployed containerized applications and microservices architecture using Docker and orchestration platforms.
+           - Implemented Infrastructure as Code practices using Terraform for cloud resource provisioning and management.
+           - Built and maintained CI/CD pipelines using Jenkins for automated application deployment and testing.
+           - Administered hybrid cloud environments (AWS/OCI) including compute, storage, and networking services.
+           - Configured automated backup solutions and disaster recovery procedures ensuring business continuity
+           - Developed custom automation scripts and workflows using Ansible and n8n for system administration tasks.
       - layout: left  
         title: ICT Engineer
         sub_title: Marpoint Ltd, Marousi GR
         caption: 04/2023 - Present 
         description: |
-           - Configuration and Maintenance of Networking Eqipment (Routers / Switches / Access Points / 4G-5G Antennas)(Mikrotik).
-           - Network Architecture Design and Installation.
-           - Windows Server and Configuration, Installation, Maintenance and Troubleshooting.
-           - Active Directory.
-           - Virtualization (Proxmox).
-           - Docker Containers.
-           - Creation of detailed technical documentation for project implementations and integrations.
-           - Technical Support.
+           - Automated infrastructure provisioning and configuration management using Ansible and Rundeck.
+           - Configured and maintained enterprise networking infrastructure (MikroTik/Ubiquiti routers, switches, APs, 4G-5G antennas) ensuring high availability and performance.
+           - Deployed, managed, and maintained Docker containers, troubleshooting containerized applications to ensure optimal performance and reliability.
+           - Administered Windows Server environments including Active Directory, managing user authentication and enterprise security policies through PowerShell scripting and automation.
+           - Architected and deployed virtualized infrastructure using Proxmox, optimizing resource allocation and system availability.
+           - Deployed, managed, and maintained Docker containers, troubleshooting containerized applications to ensure optimal performance and reliability.
+           - Developed comprehensive technical documentation and standard operating procedures for infrastructure deployments and system integrations.
       - layout: left  
         title: Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
         caption: 03/2022 - 03/2023
         description: |
-           - Network Design, Deployment and Administration (Mikrotik/Cisco).
-           - System Operations Assitant (WHM CPanel/Direct Admin/Microsoft 365/Proxmox/Synology).
-           - Comprehensive project documentation deployment. 
+           - Architected and deployed enterprise network infrastructure using MikroTik and Cisco equipment, ensuring scalable and secure connectivity.
+           - Administered multi-platform server environments including Linux, Windows Server, and virtualized systems using Proxmox.
+           - Managed cloud-based services and hosting platforms (WHM cPanel, DirectAdmin, Microsoft 365, Exchange Server).
+           - Implemented network monitoring and management solutions for proactive system maintenance.
+           - Created detailed technical documentation for system configurations, network topology, and operational procedures.
       - layout: left  
-        title: Network Management/Customer Support
+        title: Network Administrator
         sub_title: NET 7, Corfu GR
         caption: 01/2020 - 02/2022
         description: |
-           - WISP Network Manager (Ubiquiti/Mikrotik).
-           - Customer Support Manager (UISP CRM).
+           - Managed and optimized WISP (Wireless Internet Service Provider) network infrastructure using Ubiquiti and MikroTik equipment.
+           - Administered network monitoring systems and performance optimization for wireless broadband services.
+           - Implemented network automation scripts for routine maintenance and configuration management.
       - layout: left
         title: Network Management/IT Support
         sub_title: Messinian Networks, Kalamata GR
         caption: 06/2016 - 12/2019
         description: |
-          - 21/06/2021 - 30/11/2022: Network Management and Customer Support Service (Kalamata). (UISP CRM/NMS)
-          - 01/09/2016 - 20/06/2021: B2B IT Support and Network Management (Corfu). (Mikrotik/Synology/VMware)
-          - 23/06/2016 - 31/08/2016: Training on Network Installations and IT Support (Kalamata). (Mikrotik/Ubiquiti)
+          - Provided comprehensive IT infrastructure support for multiple client environments.
+          - Deployed and maintained virtualized server environments using VMware vSphere.
+          - Configured and administered MikroTik networking equipment.
+          - Troubleshot network connectivity, configuration, and performance issues.
        
   - title: Education
     layout: list
