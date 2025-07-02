@@ -23,15 +23,15 @@ about_profile_image: images/profile.jpg
 about_content: | 
   Hey there, Im Spiros, an ICT Engineer graduate from the Department of Informatics at the Ionian University.
   
-  My interests include, but are not limited to, gaining experience in the following areas:
-  - Networking (Cisco, Mikrotik, Ubiquiti)
-  - Server Infrastructures
-  - Web Development (Angular, React)
-  - Virtualization Management (Proxmox)
-  - Docker Containers
-  - Automations / Orchestration (Ansible /Terraform)
+  After building a solid foundation in Networking (Cisco, MikroTik, Ubiquiti) and Systems Administration (Windows/Linux/MacOS), I am now deepening my expertise in modern DevOps and automation practices
+  Currently, Im actively working with and exploring technologies such as:
+  - Automation (Ansible / n8n)
+  - Docker Container Orchestration (Nomad/Kubernetes)
+  - Infrastructure Orchestration (Terraform)
+  - Pipelines (Jenkins)
+  - Cloud Services (AWS/OCI)
   
-  Technical skills are not the only area I have developed through my expirience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and provide quality results.
+  Technical skills are not the only area I have developed through my experience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and provide quality results.
 content:
   - title: Experience
     layout: list
@@ -41,13 +41,12 @@ content:
         sub_title: Freelance, Athens GR
         caption: 06/2021 - Present
         description: |
-           - Web Development and E-Shop Frameworks
-           - Application Development
-           - Virtualization and Docker Container Management
-           - Network Design, Implementation and Support
+	   - Network Design, Implementation and Support.
+           - Virtualization and Containerization.
            - Fileservers and Remote Backup Solutions
            - Cloud Hosting
            - Pipeline Implementation and Maintenance
+	   - System & Network Automation
       - layout: left  
         title: ICT Engineer
         sub_title: Marpoint Ltd, Marousi GR
@@ -55,15 +54,16 @@ content:
         description: |
            - Configuration and Maintenance of Networking Eqipment (Routers / Switches / Access Points / 4G-5G Antennas)(Mikrotik).
            - Network Architecture Design and Installation.
-           - Server and NAS Configuration, Installation, Maintenance and Troubleshooting (Proxmox / Windows Server / Synology).
+           - Windows Server and Configuration, Installation, Maintenance and Troubleshooting
+	   - Active Directory.
+	   - Virtualization (Proxmox).
+	   - Docker Containers.
            - Creation of detailed technical documentation for project implementations and integrations.
            - Technical Support.
-           - Ansible Automations.
-           - Testing develoment updates on Azure Platform.
       - layout: left  
         title: Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
-        caption: 06/2022 - 05/2023
+        caption: 03/2022 - 03/2023
         description: |
            - Network Design, Deployment and Administration (Mikrotik/Cisco).
            - System Operations Assitant (WHM CPanel/Direct Admin/Microsoft 365/Proxmox/Synology).
@@ -71,14 +71,14 @@ content:
       - layout: left  
         title: Network Management/Customer Support
         sub_title: NET 7, Corfu GR
-        caption: 03/2022 - 03/2023
+        caption: 01/2020 - 02/2022
         description: |
            - WISP Network Manager (Ubiquiti/Mikrotik).
            - Customer Support Manager (UISP CRM).
       - layout: left
         title: Network Management/IT Support
         sub_title: Messinian Networks, Kalamata GR
-        caption: 06/2016 - 11/2023
+        caption: 06/2016 - 12/2019
         description: |
           - 21/06/2021 - 30/11/2022: Network Management and Customer Support Service (Kalamata). (UISP CRM/NMS)
           - 01/09/2016 - 20/06/2021: B2B IT Support and Network Management (Corfu). (Mikrotik/Synology/VMware)
@@ -89,7 +89,7 @@ content:
     content:
       - layout: left
         title: B.Sc. Informatics
-        caption: 10/2015 - 09/23
+        caption: 10/2015 - 09/2023
         sub_title: Ionian University, Corfu GR
         description: |
           Specialization in Information Systems.
