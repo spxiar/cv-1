@@ -23,15 +23,15 @@ about_profile_image: images/profile.jpg
 about_content: | 
   Hey there, Im Spiros, a Systems Administrator and a graduate from the Department of Informatics at the Ionian University.
   
-  After building a solid foundation in Networking (Cisco, MikroTik, Ubiquiti) and Systems Administration (Windows/Linux/MacOS), I am now deepening my expertise in modern DevOps and automation practices
-  Currently, Im actively working with and exploring technologies such as:
+  After building a solid foundation in Networking (Cisco, MikroTik, Ubiquiti) and Systems Administration (Windows/Linux/MacOS), I am deepening my expertise in modern DevOps and automation practices.
+   Currently, I'm actively working with and further exploring technologies such as:
   - Automation (Ansible / n8n)
   - Docker Container Orchestration (Nomad/Kubernetes)
   - Infrastructure Orchestration (Terraform)
   - Pipelines (Jenkins)
   - Cloud Services (AWS/OCI)
   
-  Technical skills are not the only area I have developed through my experience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and provide quality results.
+  Technical skills are not the only area I have developed through my experience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and still provide quality results.
 content:
   - title: Experience
     layout: list
