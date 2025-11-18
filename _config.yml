@@ -120,14 +120,6 @@ content:
           - [MikroTik Certified User Management Engineer](https://mikrotik.com/training/certificates/c451786c0a0ec12dd7cd) (14/04/2025 - 14/04/2028)
           - Examination for the Certificate in Competency in English (ECCE)  Michigan University
 
-  - title: A Little More About Me
-    layout: text
-    content: |
-      Apart from my job's related interests I'm keen on:
-      - Traveling
-      - Audiophilism and Vinyl Records
-      - MotoGP
-
 footer_show_references: false
 
 remote_theme: sproogen/resume-theme
