@@ -29,8 +29,8 @@ about_content: |
   - Automation (Ansible/n8n)
   - Docker Container Orchestration (Nomad/Kubernetes)
   - Infrastructure Orchestration (Terraform)
-  - Pipelines (Jenkins)
-  - Cloud Services (AWS/OCI)
+  - Pipelines (Jenkins - GitLab CI/CD)
+  - Cloud Services (AWS/OCI/Cloudflare)
   
   Technical skills are not the only area I have developed through my experience. My peers describe me as a valuable team member, who knows how to work under strict deadlines and still provide quality results.
 content:
@@ -45,8 +45,8 @@ content:
            - Designed and implemented scalable network architectures for diverse client environments, from small business to enterprise-level deployments.
            - Deployed containerized applications and microservices architecture using Docker and orchestration platforms.
            - Implemented Infrastructure as Code practices using Terraform for cloud resource provisioning and management.
-           - Built and maintained CI/CD pipelines using Jenkins for automated application deployment and testing.
-           - Administered hybrid cloud environments (AWS/OCI) including compute, storage, and networking services.
+           - Built and maintained CI/CD pipelines using Jenkins and Gitlab CI/CD for automated application deployment and testing.
+           - Administered hybrid cloud environments (AWS/OCI/Cloudflare) including compute, storage, and networking services.
            - Configured automated backup solutions and disaster recovery procedures ensuring business continuity
            - Developed custom automation scripts and workflows using Ansible and n8n for system administration tasks.
       - layout: left  
@@ -54,7 +54,7 @@ content:
         sub_title: Marpoint Ltd, Marousi GR
         caption: 04/2023 - Present 
         description: |
-           - Automated infrastructure provisioning and configuration management using Ansible and Rundeck.
+           - Automated infrastructure provisioning and configuration management using Ansible.
            - Configured and maintained enterprise networking infrastructure (MikroTik/Ubiquiti routers, switches, APs, 4G-5G antennas) ensuring high availability and performance.
            - Deployed, managed, and maintained Docker containers, troubleshooting containerized applications to ensure optimal performance and reliability.
            - Administered Windows Server environments including Active Directory, managing user authentication and enterprise security policies through PowerShell scripting and automation.
