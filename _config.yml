@@ -38,18 +38,6 @@ content:
     layout: list
     content:
       - layout: left  
-        title: Systems and Network Administrator
-        sub_title: Freelance, Athens GR
-        caption: 06/2021 - Present
-        description: |
-           - Designed and implemented scalable network architectures for diverse client environments, from small business to enterprise-level deployments.
-           - Deployed containerized applications and microservices architecture using Docker and orchestration platforms.
-           - Implemented Infrastructure as Code practices using Terraform for cloud resource provisioning and management.
-           - Built and maintained CI/CD pipelines using Jenkins and Gitlab CI/CD for automated application deployment and testing.
-           - Administered hybrid cloud environments (AWS/OCI/Cloudflare) including compute, storage, and networking services.
-           - Configured automated backup solutions and disaster recovery procedures ensuring business continuity
-           - Developed custom automation scripts and workflows using Ansible and n8n for system administration tasks.
-      - layout: left  
         title: ICT Engineer
         sub_title: Marpoint Ltd, Marousi GR
         caption: 04/2023 - Present 
@@ -61,6 +49,18 @@ content:
            - Architected and deployed virtualized infrastructure using Proxmox, optimizing resource allocation and system availability.
            - Deployed, managed, and maintained Docker containers, troubleshooting containerized applications to ensure optimal performance and reliability.
            - Developed comprehensive technical documentation and standard operating procedures for infrastructure deployments and system integrations.
+      - layout: left
+        title: Systems and Network Administrator
+        sub_title: Freelance, Athens GR
+        caption: 06/2021 - 12/2025
+        description: |
+           - Designed and implemented scalable network architectures for diverse client environments, from small business to enterprise-level deployments.
+           - Deployed containerized applications and microservices architecture using Docker and orchestration platforms.
+           - Implemented Infrastructure as Code practices using Terraform for cloud resource provisioning and management.
+           - Built and maintained CI/CD pipelines using Jenkins and Gitlab CI/CD for automated application deployment and testing.
+           - Administered hybrid cloud environments (AWS/OCI/Cloudflare) including compute, storage, and networking services.
+           - Configured automated backup solutions and disaster recovery procedures ensuring business continuity
+           - Developed custom automation scripts and workflows using Ansible and n8n for system administration tasks.
       - layout: left  
         title: Systems and Network Administrator
         sub_title: Intercompass MPD, Glyfada GR
